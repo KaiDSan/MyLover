@@ -14,7 +14,6 @@ body {
     align-items: center;
     min-height: 100vh;
     background: #111;
-    transition: all 1s;
 }
 
 .container {
@@ -24,6 +23,7 @@ body {
     align-items: center;
     padding: 40px 0;
     flex-wrap: wrap;
+    transition: all 1s;
 }
 
 .container .box {
